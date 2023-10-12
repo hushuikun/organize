@@ -10,7 +10,6 @@ from multiprocessing import Pool, freeze_support
 
 
 TARGET_FOLDER = '.\MyLife'
-PROGRESS = 0
 
 
 def count_files_in_directory(path):
